@@ -1,10 +1,25 @@
-PIC18/MPU6050/Examples/MPU6050_raw.X/dist/
-PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/private/
-PIC18/MPU6050/Examples/MPU6050_raw.X/build/
-*~
-/dsPIC30F/I2Cdev/I2CdevdsPic30F.X/nbproject/private/
-/dsPIC30F/I2Cdev/I2CdevdsPic30F.X/dist/default/
-/dsPIC30F/I2Cdev/testMCC.X/nbproject/private/
-/dsPIC30F/MPU6050/Examples/MPU6050_example.X/nbproject/private/
-/dsPIC30F/MPU6050/Examples/MPU6050_example.X/build/default/
-/dsPIC30F/MPU6050/Examples/MPU6050_example.X/dist/default/
+.pioenvs
+.piolibdeps
+CMakeListsPrivate.txt
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/dynamic.xml
+
+# CMake
+cmake-build-debug/
+cmake-build-release/
+
+# pyenv
+.python-version

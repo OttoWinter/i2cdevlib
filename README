@@ -1,3 +1,9 @@
+====================================================================
+NOTE: This is a fork of the excellent i2cdevlib library to make it easier to use in esphomelib
+The library has been restructured a bit and support for a bunch of devices that are of no real
+use in Home Automation applications has been removed.
+====================================================================
+
 Jennic platform added!
 
 ============================================================================
