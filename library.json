@@ -1,0 +1,23 @@
+{
+  "name": "I2Cdevlib-esphomelib",
+  "keywords": "esp32, esp8266, i2c",
+  "description": "Fork of the awesome I2Cdevlib project that changes the build system to work better with esphomelib.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OttoWinter/i2cdevlib.git"
+  },
+  "version": "1.1.0",
+  "authors": [
+    {
+      "name": "Jeff Rowberg"
+    },
+    {
+      "name": "Otto Winter",
+      "email": "contact@otto-winter.com",
+      "url": "https://otto-winter.com",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": ["espressif8266", "espressif32"]
+}
